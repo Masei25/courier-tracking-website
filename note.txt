@@ -1,0 +1,14 @@
+tracking number
+ship date
+shipment type
+content: private item
+Receivers name
+receivers address
+Phone number
+item status: item on hold by customs at heathrow airport////in transit
+item location
+order updated: date/ time
+
+
+track-result.php
+track-status.php
